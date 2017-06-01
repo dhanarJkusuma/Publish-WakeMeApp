@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wakemeapp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ask_permission">You need to allow access setting to use this application</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+</resources>
